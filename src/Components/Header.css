@@ -1,0 +1,23 @@
+.tcheader {
+  background-color: #fff;
+  
+  padding: 1.5rem;
+  display: flex;
+  h1 { 
+  color: #000;
+  margin: 0 auto;
+}
+  align-items: center;
+}
+
+.tlheader {
+  background-color: #fff;
+  
+  padding: 1.5rem;
+  display: flex;
+  h1 { 
+  color: #000;
+  margin: 0 auto;
+}
+  align-items: center;
+}
